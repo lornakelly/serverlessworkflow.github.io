@@ -16,7 +16,7 @@ The Diagram Editor (`@openworkflowspec/diagram-editor`) is a React component tha
 
 It's built on top of the tools the community already knows:
 
-- The **[Open Workflow TypeScript SDK](https://github.com/serverlessworkflow/sdk-typescript)** for parsing and understanding workflow definitions.
+- The **[Open Workflow TypeScript SDK](https://github.com/open-workflow-specification/sdk-typescript)** for parsing and understanding workflow definitions.
 - **[React Flow (`@xyflow/react`)](https://reactflow.dev/)** for diagram rendering and interaction.
 - **[ELK](https://www.eclipse.org/elk/)** for automatic graph layout, so your workflows are arranged cleanly without any manual positioning.
 
