@@ -1,14 +1,12 @@
 ---
 title: Announcing the Open Workflow Specification Diagram Editor (MVP)
 author: Lorna Kelly
-date: 2026-07-10
+date: 2026-07-21
 description: >
   The first MVP release of the Open Workflow Diagram Editor - a React component that turns your workflow definitions into interactive diagrams. Compatible with Specification 1.0.0.
 ---
 
-🎉 We're excited to share the first **MVP release** of the **Open Workflow Diagram Editor** — a new React component that renders your Open Workflow definitions as interactive diagrams. It's the first step toward a full visual editing experience for the Open Workflow ecosystem, and it's ready for you to try today.
-
-<!-- TODO: add release/package link before publishing -->
+🎉 We're excited to share the first **MVP release** of the [**Open Workflow Diagram Editor**](https://www.npmjs.com/package/@openworkflowspec/diagram-editor) — a new React component that renders your Open Workflow definitions as interactive diagrams. It's the first step toward a full visual editing experience for the Open Workflow ecosystem, and it's ready for you to try today.
 
 ## What is the Diagram Editor?
 
